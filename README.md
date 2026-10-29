@@ -1,6 +1,7 @@
 # 🤖 Arduino Obstacle Avoiding Robot
 
 An Arduino-based autonomous robot that detects obstacles using an ultrasonic sensor and automatically changes direction to avoid collisions. The robot uses a motor driver shield to control four DC motors and a servo motor to scan the surroundings.
+![Uploading image.png…]()
 
 ## 📌 Project Overview
 
